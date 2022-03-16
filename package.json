@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-gnansumors",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "Calculate the sum of strided array elements, ignoring NaN values and using ordinary recursive summation.",
   "license": "Apache-2.0",
   "author": {
